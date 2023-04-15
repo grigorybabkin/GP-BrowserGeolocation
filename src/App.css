@@ -1,0 +1,25 @@
+.locationName {
+    font-size: 10vw;
+    color: #E0E0E0;
+}
+
+.locationCoords {
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+    color: #9A9A9A;
+}
+
+.locationCoords div:first-child {
+    margin-right: 3vw;
+}
+
+.info-error {
+    font-size: 2vw;
+    color: #A60000;
+}
+
+.info-loading {
+    font-size: 3vw;
+    color: #D4D4D4;
+}
